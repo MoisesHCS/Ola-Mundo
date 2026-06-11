@@ -34,3 +34,7 @@ Lista de Tarefas:
 - [x] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber pagamento
+
+![Octocat Noir](https://github.com/user-attachments/assets/31334265-1da6-482c-b91f-b1118eb9f2e2)
+
+[Acesse meu GitHub](http://github.com/MoisesHCS)
